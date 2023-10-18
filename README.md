@@ -4,4 +4,4 @@
 
 # Diário de bordo
 18/10/23
-Finalizado o cap 4 na página 48 e retirado os espaços pq tenho agonia xD
+Finalizada atividade 5 (pg. 54)
