@@ -5,3 +5,4 @@
 # Diário de bordo
 18/10/23
 Finalizada atividade 5 (pg. 54)
+intervalo, parei na pg. 62
