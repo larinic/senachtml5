@@ -9,3 +9,6 @@ Finalizada atividade 5 - imagens
 Finalizada atividade 6 - Tabelas e novos elementos
 Parei na atividade 7 - Adição de links (pg. 81)
 
+25/10
+Continuação da atividade 7
+
