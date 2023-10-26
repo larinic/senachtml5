@@ -11,4 +11,6 @@ Parei na atividade 7 - Adição de links (pg. 81)
 
 25/10
 Continuação da atividade 7
+Conclui o cap2, pág. 105
+Exercício 1...
 
