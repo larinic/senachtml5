@@ -1,18 +1,85 @@
 ﻿<!doctype html>
-
 <html lang="pt-br">
-
-
 <head> 
-
 <meta charset="utf-8">
-
 <title>Meu amigo cão - Petshop</title>
-
+<style>
+    h2{
+        background-color: #C0262C;
+        background-image: url(multimidia/importante-saber.jpg), url(multimidia/back-bolinha.gif);
+        background-repeat: no-repeat, repeat;
+        color: #FFFFFF;
+        font-size: 2.5em;
+        letter-spacing: .1em;
+        background-position: center right, center center;
+        width: 470px;
+        padding: 61px 400px 61px 100px;
+    }
+    figure {
+        border:#C0262C solid thin;
+        border-radius: 35px 35px 0px 0px;
+        padding: 20px 0 0;
+        text-align: center;
+    }
+    figcaption {
+        background-color: #C0262C;
+        padding: 7px 0;
+        color:#FFFFFF;
+        font-size: 1.5em;
+    }
+    ul li {
+        list-style-type: none;
+        list-style-image: url(multimidia/ossinho.png);
+        list-style-position: inside;
+        margin: 30px 0;
+    }
+    dt{
+        color: #fff;
+        background-color: #C0262C;
+        padding: 7px;
+    }
+    dd {
+        border: thin #C0262C solid;
+        border-radius: 0 0 25px 25px;
+        margin-top: -3px;
+        margin-bottom: 30px;
+        padding: 20px 20px 0;
+    }
+    ol {
+        list-style-type: none;
+        white-space: pre;
+        line-height: .9em;
+        /* definr a variável de contagem */
+        counter-reset: contador;
+    }
+    ol li:before {
+        color: #999999;
+        /*incrementar a variável em 1 */
+        counter-increment: contador;
+        /* usar o numero do contador como conteúdo */
+        content: "Questão " counter(contador) " \00BB  ";
+    }
+    ul li a {
+        text-decoration: none;
+        color: #C0262C;
+        font-weight: bold;
+        padding: 7px;
+    }
+    ul li a:hover {
+        text-decoration: underline;
+    }
+    dd a [target="_blank"] {
+        text-decoration: none;
+        color: #C0262C;
+        font-weight: bold;
+        padding: 7px;
+        display: inline-block;
+    }
+    dd a [target="_blank"]:hover {
+        text-decoration: underline;
+    }
+</style>
 </head>
-
-
-
 <body>
 
 
@@ -131,7 +198,8 @@ Antigamente esta raça era considerada um gladiador feroz, agora é vista como u
 <p> <a href="#top"> Voltar </a> </p>
 
 
-</dd>
+
+</dd>
 
 
 <dt><a id="collie"></a>Collie</dt>

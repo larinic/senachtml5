@@ -14,3 +14,12 @@ Continuação da atividade 7
 Conclui o cap2, pág. 105
 Exercício 1...
 
+26/10
+continuação da exercício 1, não deu tempo de terminar
+
+30/10 - continuação...
+Iniciando cap. 3 - CSS - Estilos iniciais
+Sintaxe básica, locais de declaração, estilos de fonte e texto, família de fontes e cores
+parei na pg 142 > adicionando estilos aos links
+
+
