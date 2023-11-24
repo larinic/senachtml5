@@ -18,7 +18,10 @@ p::first-line {
 }
 hr {
     border-color: #C0262C;
-
+}
+hl{
+    border-bottom: #C0262C solid thin;
+    padding-bottom: 7px;
 }
 
 body {
