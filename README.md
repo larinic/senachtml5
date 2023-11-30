@@ -20,3 +20,4 @@ usei o tempo da aula pra reler os capítulos anteriores para tentar me localizar
 
 28/11 - recap das atividades com o professor
 leitura e acompanhamento do livro até a página 177
+29/11 - não estava bem, por isso só li o livro, cap 5 pg. 190-191
