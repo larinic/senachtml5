@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: darkgray;
+}
+nav{
+    background-color: aliceblue;
+}
+div img{
+    width: 600px;
+    border-radius: 10px;
+}
